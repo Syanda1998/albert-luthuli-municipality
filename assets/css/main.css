@@ -856,7 +856,7 @@ section,
 
 .what-we-do .icon-box {
   background-color: var(--surface-color);
-  background-color: #3F3F43;;
+  background-color: #272F36;
   text-align: center;
   padding: 0px 30px;
   width: 100%;
@@ -883,7 +883,7 @@ section,
   font-size: 20px;
   font-weight: 700;
   margin: 0 0 30px 0;
-  color: green;
+  color: #077805;
 }
 
 .what-we-do .icon-box p {
@@ -893,7 +893,7 @@ section,
 
 .what-we-do .icon-box:hover i {
   color: var(--contrast-color);
-  background: green;
+  background: #077805;
 }
 
 /*--------------------------------------------------------------
@@ -981,7 +981,7 @@ section,
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: green;
+  background-color: #077805;
 }
 
 /*--------------------------------------------------------------
