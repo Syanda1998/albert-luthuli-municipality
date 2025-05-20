@@ -73,60 +73,60 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li style="margin-left: 20%;"><a href="index.html">HOME</a></li>
+          <li style="margin-left: 20%;"><a href="index.php">HOME</a></li>
           <!-- <li><a href="#about"> ABOUT</a></li> -->
-          <li class="dropdown" style="margin-left: 5%;"><a href="#"  class="active" style=" color: black;"><span>ABOUT</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>ABOUT</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="about-us.html">ABOUT US</a></li>
-              <li><a href="council.html">COUNCIL</a></li>
-              <li><a href="tourism.html">TOURISM</a></li>
+              <li><a href="about-us.php">ABOUT US</a></li>
+              <li><a href="council.php">COUNCIL</a></li>
+              <li><a href="tourism.php">TOURISM</a></li>
             </ul>
           </li>
           <!-- <li><a href="#services"> DEPARTMENTS</a></li> -->
-          <li class="dropdown" style="margin-left: 5%;"><a href="departments.html"><span>DEPARTMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown" style="margin-left: 5%;"><a href="departments.php"><span>DEPARTMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="office-of-mm.html">OFFICE OF THE MUNICIPAL MANAGER</a></li>
-              <li><a href="corporate-services.html">CORPORATE SERVICES</a></li>
-              <li><a href="community-safety.html">COMMUNITY SAFETY SERVICES</a></li>
-              <li><a href="finance.html">FINANCE</a></li>
-              <li><a href="ped.html">PLANNING & ECONOMIC DEVELOPMENT (PED)</a></li>
-              <li><a href="technical-services.html">TECHNICAL SERVICES</a></li>
+              <li><a href="office-of-mm.php">OFFICE OF THE MUNICIPAL MANAGER</a></li>
+              <li><a href="corporate-services.php">CORPORATE SERVICES</a></li>
+              <li><a href="community-safety.php">COMMUNITY SAFETY SERVICES</a></li>
+              <li><a href="finance.php">FINANCE</a></li>
+              <li><a href="ped.php">PLANNING & ECONOMIC DEVELOPMENT (PED)</a></li>
+              <li><a href="technical-services.php">TECHNICAL SERVICES</a></li>
             </ul>
           </li>
           <!-- <li><a href="#portfolio">SCM</a></li> -->
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>SCM</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="current-tenders.html">CURRENT TENDERS</a></li>
-              <li><a href="quotation.html">REQUEST FOR QUOTATIONS</a></li>
-              <li><a href="tender-documents.html">TENDER DOCUMENTS</a></li>
-              <li><a href="closed-tenders.html">CLOSED TENDERS</a></li>
-              <li><a href="awarded-tenders.html">AWARDED TENDERS</a></li>
-              <li><a href="tender-received.html">TENDERS RECEIVED</a></li>
-              <li><a href="scm-quarterly-reports.html">SCM QUARTERLY REPORTS</a></li>
+              <li><a href="current-tenders.php">CURRENT TENDERS</a></li>
+              <li><a href="quotation.php">REQUEST FOR QUOTATIONS</a></li>
+              <li><a href="tender-documents.php">TENDER DOCUMENTS</a></li>
+              <li><a href="closed-tenders.php">CLOSED TENDERS</a></li>
+              <li><a href="awarded-tenders.php">AWARDED TENDERS</a></li>
+              <li><a href="tender-received.php">TENDERS RECEIVED</a></li>
+              <li><a href="scm-quarterly-reports.php">SCM QUARTERLY REPORTS</a></li>
             </ul>
           </li>
           <!-- <li><a href="#team"> DOCUMENTS</a></li> -->
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span> DOCUMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="annual-reports.html">ANNUAL REPORTS</a></li>
-              <li><a href="quarterly-reports.html">QUARTERLY REPORTS</a></li>
-              <li><a href="perfomance-management.html">PERFOMANCE MANAGEMENT</a></li>
-              <li><a href="idp.html">IDP</a></li>
-              <li><a href="budget.html">BUDGET</a></li>
-              <li><a href="municipal-bylaws.html">MUNICIPAL BY-LAWS</a></li>
-              <li><a href="valuation-roll.html">VALUATION ROLL</a></li>
-              <li><a href="sdbip.html">SDBIP</a></li>
-              <li><a href="policies.html">POLICIES</a></li>
+              <li><a href="annual-reports.php">ANNUAL REPORTS</a></li>
+              <li><a href="quarterly-reports.php">QUARTERLY REPORTS</a></li>
+              <li><a href="perfomance-management.php">PERFOMANCE MANAGEMENT</a></li>
+              <li><a href="idp.php">IDP</a></li>
+              <li><a href="budget.php">BUDGET</a></li>
+              <li><a href="municipal-bylaws.php">MUNICIPAL BY-LAWS</a></li>
+              <li><a href="valuation-roll.php">VALUATION ROLL</a></li>
+              <li><a href="sdbip.php">SDBIP</a></li>
+              <li><a href="policies.php">POLICIES</a></li>
             </ul>
           </li>
           
-          <li style="margin-left: 5%;"><a href="notices.html"> NOTICES</a></li>
-          <li style="margin-left: 5%;"><a href="news.html"> NEWS</a></li>
+          <li style="margin-left: 5%;"><a href="notices.php"> NOTICES</a></li>
+          <li style="margin-left: 5%;"><a href="news.php"> NEWS</a></li>
           
-          <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>CAREERS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown" style="margin-left: 5%;"><a href="#" class="active" style=" color: black;"><span>CAREERS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="vacancies.html">VACANCIES</a></li>
-              <li><a href="application-forms.html">APPLICATION FORMS</a></li>
+              <li><a href="vacancies.php">VACANCIES</a></li>
+              <li><a href="application-forms.php">APPLICATION FORMS</a></li>
             </ul>
           </li>
         </ul>
@@ -146,56 +146,35 @@
     </section><!-- /Hero Section -->
 
      <!-- =========================================================================================================== -->
-    <hr style="margin-top: -4%; margin-bottom: 0px; border: 10px solid black;">
-    <section id="skills" class="skills section" style="background-color: #CCAF47;">
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row skills-content skills-animation">
-
-          <div class="col-lg-6" style="width: 100%;">
-
-            <br><h5 style="color: black; text-align: center;"><strong>Our Provincial Parks and conservation areas that fall under the jurisdiction of the 
-              Agency play a vital role in stimulating and maintaining economic growth for the province, and are the backbone of the 
-              biodiversity initiatives which are critical to sustainable development and conservation.</strong></h5>
-
-              <p></p>
-              <p></p>
-          </div>
-        </div>
-      </div>
-    </section><!-- /Skills Section -->
-
-     <!-- =========================================================================================================== -->
-
+    <hr style="margin-top: -4%; margin-bottom: 0px; border: 10px solid #CCAF47;">
     <section class="team-15 team section" id="team">
 
       <div class="content">
         <div class="container">
 
           <div class="row">
+
             <div class="col-lg-3 col-md-6 mb-4" style="width: 32%; border: 2px solid;">
               <div class="person">
                 
                 <div class="container1"  style="width: 106%; margin-left: -3%;">
                   <img src="assets/img/team/team-1.jpg" alt="Image" class="img-fluid">
                 </div>
-                <div class="person-contents" style="background-color: #CCAF47; height: 30%; width: 106%; margin-left: -3%;">
-                  <br><h3 style="align-items: center;"><strong>PANORAMA ROUTE</strong></h3><br>
+                <div class="person-contents" style="background-color: #272F36; height: 30%; width: 106%; margin-left: -3%;">
+                  <br><h3 style="align-items: center; color: white;"><strong>APPLICATION FOR EMPLOYMENT</strong></h3><br><br>
                 </div>
                 <div class="person-contents" style="background-color: white; height: 30%;">
-                  <br><p>One of the country’s most scenic self‑drives, the Panorama Route, explores the Mpumalanga highlands, or the 
-                    north‑eastern section of the Great Escarpment of the Drakensberg. <br><br>In these rugged mountains the plateau comes 
-                    to an abrupt and dramatic halt, falling steeply away into the Lowveld accompanied by incredible views out over the 
-                    grasslands of Africa.</p>
-                    <br><button class="btn11"><strong>Visit</strong></button>
+                  <br><br><p> For individuals applying for advertised vacancies</p><br><br>
+                    <br><button class="btn13"><strong>DOWNLOAD FORM</strong></button>
                 </div>
 
                 <style>
-                  .btn11 {
+                  .btn13 {
                     position: absolute;
                     left: 50%;
                     transform: translate(-50%, -50%);
                     -ms-transform: translate(-50%, -50%);
-                    background-color: #CCAF47;
+                    background-color: #272F36;
                     color: white;
                     font-size: 16px;
                     padding: 12px 24px;
@@ -205,7 +184,7 @@
                     width: 70%;
                   }
 
-                  .btn11:hover {   background-color: rgb(64, 210, 93);  }
+                  .btn13:hover {   background-color: rgb(64, 210, 93);  }
                 </style>
               </div>
             </div>
@@ -217,13 +196,11 @@
                   <img src="assets/img/team/team-1.jpg" alt="Image" class="img-fluid"  style="width: 100%;">
                 </div>
                 <div class="person-contents" style="background-color: #077805; height: 30%; width: 106%; margin-left: -3%;">
-                  <br><h3 style="align-items: center; color: white;"><strong>GENESIS ROUTE</strong></h3><br>
+                  <br><h3 style="align-items: center; color: white;"><strong>SENIOR MANAGERS APPLICATION FORMS</strong></h3><br>
                 </div>
                 <div class="person-contents" style="background-color: white; height: 30%;">
-                  <br><p>The Genesis Route lies in the heart of Mpumalanga in the Makhonjwa Mountain Range. <br><br> The 220km figure 
-                    of eight Route connects the historic town of Barberton to the holiday destination of Badplaas and the agricultural 
-                    community of Low’s Creek.</p>
-                    <br><br><br><button class="btn12"><strong>Visit</strong></button>
+                  <br><br><p>For Senior Management Vacancies</p>
+                    <br><br><br><button class="btn12"><strong>DOWNLOAD FORM</strong></button>
                 </div>
 
                 <style>
@@ -253,25 +230,22 @@
                 <div class="container1"  style="width: 106%; margin-left: -3%;">
                   <img src="assets/img/team/team-1.jpg" alt="Image" class="img-fluid">
                 </div>
-                <div class="person-contents" style="background-color: #272F36; height: 30%; width: 106%; margin-left: -3%;">
-                  <br><h3 style="align-items: center; color: white;"><strong>KRUGER NATIONAL PARK</strong></h3><br>
+                <div class="person-contents" style="background-color: #CCAF47; height: 30%; width: 106%; margin-left: -3%;">
+                  <br><h3 style="align-items: center;"><strong>UNEMPLOYED GRADUATES DATABASE REGISTRATION FORM</strong></h3><br>
                 </div>
                 <div class="person-contents" style="background-color: white; height: 30%;">
-                  <br><p>The world‑renowned Kruger National Park offers a wildlife experience that ranks with the best in Africa.<br><br> 
-                    Established in 1898 to protect the wildlife of the South African Lowveld, this national park of nearly 2 million 
-                    hectares, SANParks – Kruger National Park is unrivalled in the diversity of its  life forms and a world leader in 
-                    advanced environmental management techniques and policies.</p>
-                    <br><button class="btn13"><strong>Visit</strong></button><br><br>
+                  <br><br><p>For graduates who are seeking internship/in‑service programmes</p><br>
+                    <br><button class="btn11"><strong>DOWNLOAD FORM</strong></button><br><br>
                 </div>
 
                 <style>
-                  .btn13 {
+                  .btn11 {
                     position: absolute;
                     left: 50%;
                     transform: translate(-50%, -50%);
                     -ms-transform: translate(-50%, -50%);
-                    background-color: #272F36;
-                    color: white;
+                    background-color: #CCAF47;
+                    color: black;
                     font-size: 16px;
                     padding: 12px 24px;
                     border: none;
@@ -280,7 +254,7 @@
                     width: 70%;
                   }
 
-                  .btn13:hover {   background-color: rgb(64, 210, 93);  }
+                  .btn11:hover {   background-color: rgb(64, 210, 93);  }
                 </style>
               </div>
             </div>

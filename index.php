@@ -73,60 +73,60 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li style="margin-left: 20%;"><a href="index.html" class="active" style=" color: black;">HOME</a></li>
+          <li style="margin-left: 20%;"><a href="index.php" class="active" style=" color: black;">HOME</a></li>
           <!-- <li><a href="#about"> ABOUT</a></li> -->
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>ABOUT</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="about-us.html">ABOUT US</a></li>
-              <li><a href="council.html">COUNCIL</a></li>
-              <li><a href="tourism.html">TOURISM</a></li>
+              <li><a href="about-us.php">ABOUT US</a></li>
+              <li><a href="council.php">COUNCIL</a></li>
+              <li><a href="tourism.php">TOURISM</a></li>
             </ul>
           </li>
           <!-- <li><a href="#services"> DEPARTMENTS</a></li> -->
-          <li class="dropdown" style="margin-left: 5%;"><a href="departments.html"><span>DEPARTMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown" style="margin-left: 5%;"><a href="departments.php"><span>DEPARTMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="office-of-mm.html">OFFICE OF THE MUNICIPAL MANAGER</a></li>
-              <li><a href="corporate-services.html">CORPORATE SERVICES</a></li>
-              <li><a href="community-safety.html">COMMUNITY SAFETY SERVICES</a></li>
-              <li><a href="finance.html">FINANCE</a></li>
-              <li><a href="ped.html">PLANNING & ECONOMIC DEVELOPMENT (PED)</a></li>
-              <li><a href="technical-services.html">TECHNICAL SERVICES</a></li>
+              <li><a href="office-of-mm.php">OFFICE OF THE MUNICIPAL MANAGER</a></li>
+              <li><a href="corporate-services.php">CORPORATE SERVICES</a></li>
+              <li><a href="community-safety.php">COMMUNITY SAFETY SERVICES</a></li>
+              <li><a href="finance.php">FINANCE</a></li>
+              <li><a href="ped.php">PLANNING & ECONOMIC DEVELOPMENT (PED)</a></li>
+              <li><a href="technical-services.php">TECHNICAL SERVICES</a></li>
             </ul>
           </li>
           <!-- <li><a href="#portfolio">SCM</a></li> -->
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>SCM</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="current-tenders.html">CURRENT TENDERS</a></li>
-              <li><a href="quotation.html">REQUEST FOR QUOTATIONS</a></li>
-              <li><a href="tender-documents.html">TENDER DOCUMENTS</a></li>
-              <li><a href="closed-tenders.html">CLOSED TENDERS</a></li>
-              <li><a href="awarded-tenders.html">AWARDED TENDERS</a></li>
-              <li><a href="tender-received.html">TENDERS RECEIVED</a></li>
-              <li><a href="scm-quarterly-reports.html">SCM QUARTERLY REPORTS</a></li>
+              <li><a href="current-tenders.php">CURRENT TENDERS</a></li>
+              <li><a href="quotation.php">REQUEST FOR QUOTATIONS</a></li>
+              <li><a href="tender-documents.php">TENDER DOCUMENTS</a></li>
+              <li><a href="closed-tenders.php">CLOSED TENDERS</a></li>
+              <li><a href="awarded-tenders.php">AWARDED TENDERS</a></li>
+              <li><a href="tender-received.php">TENDERS RECEIVED</a></li>
+              <li><a href="scm-quarterly-reports.php">SCM QUARTERLY REPORTS</a></li>
             </ul>
           </li>
           <!-- <li><a href="#team"> DOCUMENTS</a></li> -->
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span> DOCUMENTS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="annual-reports.html">ANNUAL REPORTS</a></li>
-              <li><a href="quarterly-reports.html">QUARTERLY REPORTS</a></li>
-              <li><a href="perfomance-management.html">PERFOMANCE MANAGEMENT</a></li>
-              <li><a href="idp.html">IDP</a></li>
-              <li><a href="budget.html">BUDGET</a></li>
-              <li><a href="municipal-bylaws.html">MUNICIPAL BY-LAWS</a></li>
-              <li><a href="valuation-roll.html">VALUATION ROLL</a></li>
-              <li><a href="sdbip.html">SDBIP</a></li>
-              <li><a href="policies.html">POLICIES</a></li>
+              <li><a href="annual-reports.php">ANNUAL REPORTS</a></li>
+              <li><a href="quarterly-reports.php">QUARTERLY REPORTS</a></li>
+              <li><a href="perfomance-management.php">PERFOMANCE MANAGEMENT</a></li>
+              <li><a href="idp.php">IDP</a></li>
+              <li><a href="budget.php">BUDGET</a></li>
+              <li><a href="municipal-bylaws.php">MUNICIPAL BY-LAWS</a></li>
+              <li><a href="valuation-roll.php">VALUATION ROLL</a></li>
+              <li><a href="sdbip.php">SDBIP</a></li>
+              <li><a href="policies.php">POLICIES</a></li>
             </ul>
           </li>
           
-          <li style="margin-left: 5%;"><a href="notices.html"> NOTICES</a></li>
-          <li style="margin-left: 5%;"><a href="news.html"> NEWS</a></li>
+          <li style="margin-left: 5%;"><a href="notices.php"> NOTICES</a></li>
+          <li style="margin-left: 5%;"><a href="news.php"> NEWS</a></li>
           
           <li class="dropdown" style="margin-left: 5%;"><a href="#"><span>CAREERS</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="vacancies.html">VACANCIES</a></li>
-              <li><a href="application-forms.html">APPLICATION FORMS</a></li>
+              <li><a href="vacancies.php">VACANCIES</a></li>
+              <li><a href="application-forms.php">APPLICATION FORMS</a></li>
             </ul>
           </li>
         </ul>
@@ -159,35 +159,35 @@
               <div class="col-xl-2">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <img src="assets/img/notification.png" alt="" style="width: 30%;"><br>
-                  <h4><a href="notices.html" style="color: #077805;">NOTICES</a></h4>
+                  <h4><a href="notices.php" style="color: #077805;">NOTICES</a></h4>
                 </div>
               </div><!-- End Icon Box -->
 
               <div class="col-xl-2">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <img src="assets/img/file.png" alt="" style="width: 30%;"><br>
-                  <h4><a href="current-tenders.html" style="color: #077805;">TENDERS</a></h4>
+                  <h4><a href="current-tenders.php" style="color: #077805;">TENDERS</a></h4>
                 </div>
               </div><!-- End Icon Box -->
 
               <div class="col-xl-2">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <img src="assets/img/career.png" alt="" style="width: 30%;"><br>
-                  <h4><a href="vacancies.html" style="color: #077805;">CAREERS</a></h4>
+                  <h4><a href="vacancies.php" style="color: #077805;">CAREERS</a></h4>
                 </div>
               </div><!-- End Icon Box -->
 
               <div class="col-xl-2">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <img src="assets/img/to-do-list.png" alt="" style="width: 30%;"><br>
-                  <h4><a href="idp.html" style="color: #077805;">IDP</a></h4>
+                  <h4><a href="idp.php" style="color: #077805;">IDP</a></h4>
                 </div>
               </div><!-- End Icon Box -->
 
               <div class="col-xl-2">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <img src="assets/img/phone.png" alt="" style="width: 30%;"><br>
-                  <h4><a href="contact-us.html" style="color: #077805;">CONTACT US</a></h4>
+                  <h4><a href="contact-us.php" style="color: #077805;">CONTACT US</a></h4>
                 </div>
               </div><!-- End Icon Box -->
 
