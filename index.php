@@ -142,7 +142,8 @@
 
     <!-- Hero Section -->
     <section id="hero">
-      <img src="assets/img/header.png" alt="" data-aos="fade-in" style="margin-top: -5%; width: 100%;">
+      <!-- <img src="assets/img/header.png" alt="" data-aos="fade-in" style="margin-top: -5%; width: 100%;"> -->
+      <img src="assets/img/header.png" alt="" data-aos="fade-in" style="margin-top: -5%; height: 560px; width: 1520px;">
     </section><!-- /Hero Section -->
 
     <!-- =========================================================================================================== -->
